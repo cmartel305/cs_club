@@ -1,5 +1,5 @@
-age = 17        # int
-name = 'Will'   # string
+age = 19        # int
+name = 'Charlie'   # string
 student = True  # boolean
 major = 'CS'    # string 
 
